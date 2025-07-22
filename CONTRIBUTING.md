@@ -2,3 +2,4 @@
 
 Notes and usage details for bom-radar-card.
 - fix a small wording issue
+- clarify the setup steps
