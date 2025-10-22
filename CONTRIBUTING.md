@@ -8,3 +8,4 @@ Notes and usage details for bom-radar-card.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
