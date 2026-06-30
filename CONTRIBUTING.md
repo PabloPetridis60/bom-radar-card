@@ -29,3 +29,4 @@ Notes and usage details for bom-radar-card.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- link the usage section
